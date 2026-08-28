@@ -1,7 +1,7 @@
 # React-Project
-#📝 Notes App
+## 📝 Notes App
 
-## A simple Notes App built using React + Vite.
+### A simple Notes App built using React + Vite.
 
 ### Features
 Add notes
@@ -17,4 +17,4 @@ npm install
 npm run dev
 
 
-##Made with ❤️ by Jaid Mulla
+## Made with ❤️ by Jaid Mulla
