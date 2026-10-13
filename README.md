@@ -29,4 +29,4 @@ npm run dev
 -Select linter as Eslint  
 -Start with npm  
 
-## Made with ❤️ by Jaid Mulla
+## Made with ❤️ by Jaid Mulla.
